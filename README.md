@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#Check my website at aygunvarol.github.io
+## You can visit my web page at https://aygunvarol.github.io/
 
 <!--
 **AygunVarol/aygunvarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
