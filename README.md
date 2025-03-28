@@ -1,9 +1,3 @@
-## Hi there 👋
-
-## You can visit my Web page [here](https://aygunvarol.github.io/)
-
-## You can visit my HuggingFace page [here](https://huggingface.co/Aygun)
-
 ## 👋 Hi there, I'm Aygun!
 
 Welcome to my GitHub profile.
