@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Aygun!
+## 👋 Hi there, I'm Aygün!
 
 Welcome to my GitHub profile.
 
