@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-## You can visit my web page [here](https://aygunvarol.github.io/)
+## You can visit my Web page [here](https://aygunvarol.github.io/)
+
+## You can visit my HuggingFace page [here](https://huggingface.co/Aygun)
 
 <!--
 **AygunVarol/aygunvarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
