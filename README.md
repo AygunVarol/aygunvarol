@@ -7,6 +7,8 @@ Welcome to my GitHub profile.
 
 Thanks for stopping by!
 
+![Aygun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AygunVarol&show_icons=true&theme=radical)
+
 
 
 <!--
