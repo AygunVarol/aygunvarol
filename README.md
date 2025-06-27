@@ -1,27 +1,15 @@
-## 👋 Hi there, I'm Aygün!
+# 👋 Hi, I'm Aygün!
 
-Welcome to my GitHub profile.
+**Doctoral Researcher @ Tampere University** | Building smart spaces with IoT & AI
 
-- 🌐 Check out my **[personal website](https://aygunvarol.github.io/)** to learn more about my projects and research.
-- 🤖 Visit my **[Hugging Face profile](https://huggingface.co/Aygun)** to explore my AI models and contributions.
+🔬 Researching AI safety in smart environments  
+🏠 Creating sustainable IoT sensor networks  
+🤖 Training models on [Hugging Face](https://huggingface.co/Aygun)
 
-Thanks for stopping by!
+## 🌐 Links
+[**Website**](https://aygunvarol.github.io/) • [**AI Models**](https://huggingface.co/Aygun) • [**Email**](mailto:aygun.varol@tuni.fi)
 
-![Aygun's GitHub stats](https://github-readme-stats.vercel.app/api?username=AygunVarol&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AygunVarol&show_icons=true&theme=radical&count_private=true)
 
-
-
-<!--
-**AygunVarol/aygunvarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Open to collaborations in IoT, AI, and smart spaces* ✨
