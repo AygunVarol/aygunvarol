@@ -10,4 +10,4 @@
 [**Website**](https://aygunvarol.github.io/) • [**AI Models**](https://huggingface.co/Aygun) • [**Email**](mailto:aygun.varol@tuni.fi)
 
 ---
-*Open to collaborations in IoT, AI, and smart spaces* ✨
+*Open to collaborations in IoT, AI, and smart environments* ✨
