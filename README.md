@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aygün!
 
-**Doctoral Researcher @ Tampere University** | Building smart spaces with IoT & AI
+**Doctoral Researcher @ Tampere University** | Building smart environments with IoT & AI
 
 🔬 Researching AI safety in smart environments  
 🏠 Creating sustainable IoT sensor networks  
